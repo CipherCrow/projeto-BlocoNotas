@@ -12,6 +12,35 @@ body{
     background-color: #742b74;
 }
 
+/* Container */
+.container{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    /* flex-direction: column; */
+}
+
+/* single-anotacao */
+.single-anotacao{
+    width: 30%;
+    padding: 1%;
+    transition: .3s ease-in-out;
+}
+.anotacao__conteudo{
+    width: 20rem;
+    height: 10rem;
+    min-height: 2rem;
+    resize: vertical;
+    outline: none;
+    padding: .5rem;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.50);
+    background-color: #fcdf60;
+    border: 0;
+    font-size: 1rem;
+}
 /* Botão de adicionar */
 .btn-add{
     cursor: pointer;
