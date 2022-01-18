@@ -25,12 +25,12 @@ body{
 
 /* single-anotacao */
 .single-anotacao{
-    width: 30%;
+    /* width: 30%; */
     padding: 1%;
     transition: .3s ease-in-out;
 }
 .anotacao__conteudo{
-    width: 20rem;
+    width: 19rem;
     height: 10rem;
     min-height: 2rem;
     resize: vertical;
