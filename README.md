@@ -1,4 +1,4 @@
-##  Template Projeto!
+##  Parede de Anotações!
 Um simples projeto de sistema de salvar anotações. Planejo implementar para salvar em cookies para garantir que seja bem memória curta.
 
 ## 💻 Tecnologias 
@@ -10,14 +10,16 @@ Um simples projeto de sistema de salvar anotações. Planejo implementar para sa
 1. Animações com css.
 2. Acessibilidade.
 3. MetaTags
+4. Horário.
+5. Memória do sisteminha (Pendente)
 
 ## Ícones
 - :up: Atualização.
 - :bug: Correção.
 
 ## 📱 GitHub-Pages
-- [ ] Responsividade
+- [x] Responsividade
 - [ ] Finalizado
-- [ ] Ao Ar
+- [x] Ao Ar
 
->GitHub-Pages: link aqui
+>GitHub-Pages: https://ciphercrow.github.io/projeto-BlocoNotas/
